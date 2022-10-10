@@ -1,0 +1,8 @@
+C:\Users\Fabio\Desktop\Other\Programowanie\Wirus bombelek\Bombelekwajrus\obj\Debug\Bombelekwajrus.csproj.AssemblyReference.cache
+C:\Users\Fabio\Desktop\Other\Programowanie\Wirus bombelek\Bombelekwajrus\obj\Debug\Bombelekwajrus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Desktop\Other\Programowanie\Wirus bombelek\Bombelekwajrus\obj\Debug\Bombelekwajrus.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Other\Programowanie\Wirus bombelek\Bombelekwajrus\bin\Debug\Bombelekwajrus.exe.config
+C:\Users\Fabio\Desktop\Other\Programowanie\Wirus bombelek\Bombelekwajrus\bin\Debug\Bombelekwajrus.exe
+C:\Users\Fabio\Desktop\Other\Programowanie\Wirus bombelek\Bombelekwajrus\bin\Debug\Bombelekwajrus.pdb
+C:\Users\Fabio\Desktop\Other\Programowanie\Wirus bombelek\Bombelekwajrus\obj\Debug\Bombelekwajrus.exe
+C:\Users\Fabio\Desktop\Other\Programowanie\Wirus bombelek\Bombelekwajrus\obj\Debug\Bombelekwajrus.pdb
